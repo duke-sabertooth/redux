@@ -27,6 +27,7 @@ Archetype: The Gardener
 Theme: Growth and Cultivation
 Symbolism: The first buds appear, symbolizing growth and the nurturing of new ideas and plans.
 Seasonal Connection: Early spring, as the earth bursts into bloom.
+
 6. Month 5: The Journey
 Archetype: The Wanderer
 Theme: Exploration and Courage
@@ -56,6 +57,7 @@ Archetype: The Mentor
 Theme: Wisdom and Sharing
 Symbolism: Having gained knowledge and success, we turn to teaching and giving back.
 Seasonal Connection: Late summer, when harvest begins.
+
 11. Month 10: The Descent
 Archetype: The Sage
 Theme: Reflection and Letting Go
